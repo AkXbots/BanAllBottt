@@ -40,7 +40,7 @@ def start(_, msg: Message):
                                                         InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://www.github.com/itz-mst-boy/BanAllBot"), 
                                                         InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/worldwide_friend_zone")                                      
                                                        ], 
-                                                       [
+                                                      ]
                                                      )
 )
 
