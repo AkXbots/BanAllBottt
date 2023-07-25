@@ -32,7 +32,7 @@ def service(c, m):
 @bot.on_message(filters.private)
 def start(_, msg: Message):
     msg.reply_photo(
-                    photo="https://telegra.ph/file/3794971472562ae7c775b.jpg", 
+                    photo="https://telegra.ph/file/7efb1c4feb25433d5d86e.jpg", 
                     caption="ɪᴛ'ꜱ ᴀɴ ᴀᴅᴠᴀɴᴄᴇ & ᴘᴏᴡᴇʀꜰᴜʟ ʙᴀɴ-ᴀʟʟ ʙᴏᴛ ᴡɪᴛʜ ɴᴏ ʟᴀɢ ɪꜱꜱᴜᴇꜱ. ᴛʜɪꜱ ʙᴀɴ-ᴀʟʟ ᴇᴅɪᴛɪᴏɴ ɪꜱ ᴄʀᴇᴀᴛᴇ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ꜰᴏʀ ꜰᴜᴄᴋɪɴɢ ᴛᴏxɪᴄ ᴄᴜᴍᴍɪɴɪᴛʏ'ꜱ.
 ᴀᴅᴅ ᴛʜɪꜱ ʙᴀɴᴀʟʟ ᴇᴅɪᴛɪᴏɴ ᴛᴏ ᴇɴᴇᴍʏ'ꜱ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʙᴀɴ ʀɪɢʜᴛꜱ  ᴀɴᴅ ꜰᴜᴄᴋ ʜɪꜱ ᴡʜᴏʟᴇ ᴄʟᴀɴ ᴡɪᴛʜᴏᴜᴛ ꜰᴀᴄɪɴɢ ᴀɴʏ ʙᴜɢꜱ/ᴘʀᴏʙʟᴇᴍꜱ.
 
