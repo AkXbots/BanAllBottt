@@ -37,8 +37,8 @@ def start(_, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                                                       [
                                                        [
-                                                        InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://www.github.com/itz-mst-boy/BanAllBot"), 
-                                                        InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/worldwide_friend_zone")                                      
+                                                        InlineKeyboardButton("• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/bonten_mainchats"), 
+                                                        InlineKeyboardButton("• ᴄʜᴀɴɴᴇʟ •", url="https://t.me/bonten_destroyers")                                      
                                                        ], 
                                                       ]
                                                      )
