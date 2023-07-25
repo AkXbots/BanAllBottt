@@ -33,7 +33,12 @@ def service(c, m):
 def start(_, msg: Message):
     msg.reply_photo(
                     photo="https://telegra.ph/file/3794971472562ae7c775b.jpg", 
-                    caption="ʜɪ , ɪ'ᴍ  ᴀ ʙᴀɴᴀʟʟ ʀᴏʙᴏᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴀʟʟ ᴜsᴇʀs ғʀᴏᴍ ʏᴏᴜʀ ɢʀᴏᴜᴘ.\nɴᴏᴡ ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴍᴇ ᴛʜᴇ  ʙᴀɴ ᴘᴇʀᴍɪssɪᴏɴs.\nᴛʜᴇɴ  sᴇɴᴅ /banall ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴀɴᴅ ɪ ᴡɪʟʟ sᴛᴀʀᴛ ᴍʏ ᴡᴏʀᴋ.", 
+                    caption="ɪᴛ'ꜱ ᴀɴ ᴀᴅᴠᴀɴᴄᴇ & ᴘᴏᴡᴇʀꜰᴜʟ ʙᴀɴ-ᴀʟʟ ʙᴏᴛ ᴡɪᴛʜ ɴᴏ ʟᴀɢ ɪꜱꜱᴜᴇꜱ. ᴛʜɪꜱ ʙᴀɴ-ᴀʟʟ ᴇᴅɪᴛɪᴏɴ ɪꜱ ᴄʀᴇᴀᴛᴇ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ꜰᴏʀ ꜰᴜᴄᴋɪɴɢ ᴛᴏxɪᴄ ᴄᴜᴍᴍɪɴɪᴛʏ'ꜱ.
+ᴀᴅᴅ ᴛʜɪꜱ ʙᴀɴᴀʟʟ ᴇᴅɪᴛɪᴏɴ ᴛᴏ ᴇɴᴇᴍʏ'ꜱ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʙᴀɴ ʀɪɢʜᴛꜱ  ᴀɴᴅ ꜰᴜᴄᴋ ʜɪꜱ ᴡʜᴏʟᴇ ᴄʟᴀɴ ᴡɪᴛʜᴏᴜᴛ ꜰᴀᴄɪɴɢ ᴀɴʏ ʙᴜɢꜱ/ᴘʀᴏʙʟᴇᴍꜱ.
+
+❍ ᴛʏᴘᴇ /help ғᴏʀ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs!! 
+❍  ᴘᴏᴡᴇʀᴇᴅ ʙʏ » @Bonten_Destroyers", 
+
                     reply_markup=InlineKeyboardMarkup(
                                                       [
                                                        [
@@ -41,13 +46,6 @@ def start(_, msg: Message):
                                                         InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/worldwide_friend_zone")                                      
                                                        ], 
                                                        [
-                                                        InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/moi_bot_lists"), 
-                                                        InlineKeyboardButton("ɴᴏᴏʙ", url="https://t.me/itz_mst_boy")                                      
-                                                       ], 
-                                                       [
-                                                        InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/{OWN_UNAME}")                                                                                              
-                                                       ]                                                     
-                                                      ]
                                                      )
 )
 
@@ -56,4 +54,4 @@ bot.run()
 idle()
 
 print("ᴅᴏɴᴇ ʙᴀɴᴀʟʟ  sᴛᴀʀᴛᴇᴅ ...") 
-print("ᴊᴏɪɴ  @Mukhushi_official || @worldwide_friend_zone For Help") 
+print("ᴊᴏɪɴ  @bonten_mainchats || @bonten_destroyers For Help") 
