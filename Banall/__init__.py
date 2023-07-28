@@ -6,7 +6,7 @@ import os
 
 STARTED = 'sᴜʀᴘʀɪsᴇ ᴋɪᴅs... ᴘᴏᴡᴇʀᴅ ʙʏ :- @Bonten_Destroyers'
 FINISH = 'ᴅᴏɴᴇ, {} ᴜsᴇʀs  ᴡᴇʀᴇ  ʀᴇᴍᴏᴠᴇᴅ  ғʀᴏᴍ  ɢʀᴏᴜᴘ'
-ERROR = 'sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ  ᴡʀᴏɴɢ  ᴘʟᴇᴀsᴇ ᴛʀʏ ᴀɢᴀɪɴ ᴏʀ ᴇʟsᴇ ʀᴇᴘᴏʀᴛ ᴀᴛ @worldwide_friend_zone.\n\n**{}** !'
+ERROR = 'sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ  ᴡʀᴏɴɢ  ᴘʟᴇᴀsᴇ ᴛʀʏ ᴀɢᴀɪɴ ᴏʀ ᴇʟsᴇ ʀᴇᴘᴏʀᴛ ᴀᴛ @Bonten_Mainchats.\n\n**{}** !'
 
 
 class Config:
